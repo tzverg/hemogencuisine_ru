@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HC_MakeRawBloodSausage.label>изготовить сырые гемо-колбаски</HC_MakeRawBloodSausage.label>
+  <HC_MakeRawBloodSausage.jobString>изготовление гемо-колбасок</HC_MakeRawBloodSausage.jobString>
+  <HC_MakeRawBloodSausage.description>В небольшой кожаный мешок или кишку животного закладывается измельченное мясо, смешанное с гемогеном и солью.\n\nКолбаски должны быть выдержаны при определенной температуре перед употреблением.</HC_MakeRawBloodSausage.description>
+
+</LanguageData>

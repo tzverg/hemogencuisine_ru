@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HC_UncookedBloodStew.label>сырое гемо-рагу</HC_UncookedBloodStew.label>
+  <HC_UncookedBloodStew.description>Сырое гемо-рагу. Перед употреблением его необходимо протушить в специальной кастрюле.</HC_UncookedBloodStew.description>
+  
+  <HC_CookedBloodStew.label>гемо-рагу</HC_CookedBloodStew.label>
+  <HC_CookedBloodStew.description>Простое, но удивительно вкусное рагу, приготовленное на медленном огне из нескольких ингредиентов с добавлением гемогена. Способно утолить гемогенную жажду.</HC_CookedBloodStew.description>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HC_BloodSoda.label>гемо-газировка</HC_BloodSoda.label>
+  <HC_BloodSoda.ingestible.ingestCommandString>пить {0}</HC_BloodSoda.ingestible.ingestCommandString>
+  <HC_BloodSoda.ingestible.ingestReportString>пьёт {0}</HC_BloodSoda.ingestible.ingestReportString>
+  <HC_BloodSoda.description>Очень сладкий и почти отталкивающе густой напиток лучше всего пить охлажденным. Несмотря на то, что напиток не очень питателен, сахар в нем чувствуется, а шипучесть освежает. Способна утолить гемогенную жажду.</HC_BloodSoda.description>
+  
+  <HC_BloodSodaSyrup.label>гемо-сироп</HC_BloodSodaSyrup.label>
+  <HC_BloodSodaSyrup.description>Густая и отвратительно-сладкая смесь, приготовленная путем уваривания гемогена и натуральных сахаров, обычно получаемых из сахарного тростника, свеклы или кукурузного сиропа. Перед употреблением необходимо развести водой и оставить на короткое время для газирования в герметичной среде.</HC_BloodSodaSyrup.description>
+
+</LanguageData>

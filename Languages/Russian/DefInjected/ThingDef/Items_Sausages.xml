@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HC_RawBloodSausage.label>сырые гемо-колбаски</HC_RawBloodSausage.label>
+  <HC_RawBloodSausage.description>Сырые гемогенные колбаски, подготовленные к выдержке на столбе.</HC_RawBloodSausage.description>
+  
+  <HC_BloodSausage.label>гемо-колбаски</HC_BloodSausage.label>
+  <HC_BloodSausage.description>Перекрученное мясо маринованное в гемогене, приправленное специями и солью и упакованное в трубкообразную оболочку, обычно изготовляемую из тонкой кожи или кишок животного. Колбаски приобретают неповторимый вкус после высыхания и достаточной выдержки. Способны утолить гемогенную жажду.\n\nНаиболее изысканные вкусы средневековья часто представляли колбаски высшего качества.</HC_BloodSausage.description>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <HC_MakeBloodSodaSyrup.label>сварить гемо-сироп (кукуруза)</HC_MakeBloodSodaSyrup.label>
+  <HC_MakeBloodSodaSyrup.jobString>варка гемо-сиропа</HC_MakeBloodSodaSyrup.jobString>
+  <HC_MakeBloodSodaSyrup.description>Приготовить гемо-сироп, смешав гемоген с кукурузным сиропом с высоким содержанием фруктозы.</HC_MakeBloodSodaSyrup.description>
+  
+  <HC_MakeBloodSodaSyrupEfficient.label>сварить гемо-сироп (сахар)</HC_MakeBloodSodaSyrupEfficient.label>
+  <HC_MakeBloodSodaSyrupEfficient.jobString>варка гемо-сиропа</HC_MakeBloodSodaSyrupEfficient.jobString>
+  <HC_MakeBloodSodaSyrupEfficient.description>Приготовить гемо-сироп, смешав гемоген с сахаром. Этот рецепт гораздо эффективнее.</HC_MakeBloodSodaSyrupEfficient.description>
+
+</LanguageData>

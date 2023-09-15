@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HC_UncookedBloodSoup.label>сырой гемо-супчик</HC_UncookedBloodSoup.label>
+  <HC_UncookedBloodSoup.description>Сырой гемо-супчик. Перед употреблением его необходимо сварить на плите.</HC_UncookedBloodSoup.description>
+  
+  <HC_CookedBloodSoup.label>гемо-супчик</HC_CookedBloodSoup.label>
+  <HC_CookedBloodSoup.description>Простой, но удивительно вкусный суп, приготовленный путем медленной варки на определённой температуре нескольких ингредиентов с гемогеном. Способен утолить гемогенную жажду.</HC_CookedBloodSoup.description>
+
+</LanguageData>
